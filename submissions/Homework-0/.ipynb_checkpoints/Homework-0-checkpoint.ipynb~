@@ -1,10 +1,14 @@
 {
  "metadata": {
   "name": "",
-  "signature": "sha256:2a8b10517fa0489c19547f372eb8d490dbc98cee28c45c2c677697baa609242c"
 <<<<<<< HEAD
-
+<<<<<<< HEAD
+  "signature": "sha256:2a8b10517fa0489c19547f372eb8d490dbc98cee28c45c2c677697baa609242c"
 =======
+  "signature": "sha256:7adc359373f75a6647fb591d0fa9faf5dcc0d5ef49ccad631777b1df5383b686"
+>>>>>>> Setup submissions directory
+=======
+  "signature": "sha256:2a8b10517fa0489c19547f372eb8d490dbc98cee28c45c2c677697baa609242c"
 >>>>>>> Finished HW0
  },
  "nbformat": 3,
@@ -75,9 +79,11 @@
       }
      ],
 <<<<<<< HEAD
-
+<<<<<<< HEAD
      "prompt_number": 1
-
+=======
+     "prompt_number": 16
+>>>>>>> Setup submissions directory
 =======
      "prompt_number": 1
 >>>>>>> Finished HW0
@@ -97,6 +103,8 @@
      ]
     },
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
      "cell_type": "markdown",
      "metadata": {},
      "source": [
@@ -109,6 +117,29 @@
      "source": [
       "\"Society exists only as a mental concept; in the real world there are only individuals.\" - Oscar Wilde"
      ]
+=======
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+=======
+     "cell_type": "markdown",
+     "metadata": {},
+     "source": [
+>>>>>>> Finished HW0
+      "# Insert and edit your own markdown cell *below*. Write your favorite quote"
+     ]
+    },
+    {
+     "cell_type": "markdown",
+     "metadata": {},
+<<<<<<< HEAD
+     "outputs": []
+>>>>>>> Setup submissions directory
+=======
+     "source": [
+      "\"Society exists only as a mental concept; in the real world there are only individuals.\" - Oscar Wilde"
+     ]
+>>>>>>> Finished HW0
     },
     {
      "cell_type": "code",
@@ -128,7 +159,15 @@
        ]
       }
      ],
+<<<<<<< HEAD
+<<<<<<< HEAD
      "prompt_number": 3
+=======
+     "prompt_number": 17
+>>>>>>> Setup submissions directory
+=======
+     "prompt_number": 3
+>>>>>>> Finished HW0
     },
     {
      "cell_type": "markdown",
@@ -162,7 +201,15 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
+<<<<<<< HEAD
+<<<<<<< HEAD
      "prompt_number": 4
+=======
+     "prompt_number": 12
+>>>>>>> Setup submissions directory
+=======
+     "prompt_number": 4
+>>>>>>> Finished HW0
     },
     {
      "cell_type": "code",
@@ -183,7 +230,15 @@
        ]
       }
      ],
+<<<<<<< HEAD
+<<<<<<< HEAD
      "prompt_number": 5
+=======
+     "prompt_number": 13
+>>>>>>> Setup submissions directory
+=======
+     "prompt_number": 5
+>>>>>>> Finished HW0
     },
     {
      "cell_type": "markdown",
